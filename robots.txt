@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/repelmate-mosquito-patches/sitemap.xml
+Sitemap: https://repelmate-mosquito-patches.vercel.app/sitemap-vercel.xml
+Sitemap: https://repelmate-mosquito-patches.pages.dev/sitemap-cloudflare.xml
